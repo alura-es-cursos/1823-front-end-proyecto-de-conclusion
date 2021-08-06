@@ -4,6 +4,6 @@ Mucho contenido del mundo de Desarrollo Web
 
 En ALURACONF abordaremos todas las novedades y conocimientos esenciales del maravilloso mundo de Desarrollo Web o Front-End.
 
-Es tu oportunidad para estar por dentro de los asuntos mas novedosos sobre Desarrollo Web y todas las buenas orácticas de programación Front-End.
+Es tu oportunidad para estar por dentro de los asuntos mas novedosos sobre Desarrollo Web y todas las buenas prácticas de programación Front-End.
 Conoce lo último en Frameworks y Bibliotecas como Vue.js, NodeJS, React, Angular, BootStrap, entre muchos otros.
-Además ven y conoce como se relaciona y como interactua en la práctica un Desarrollador Web con otras áreas de tecnología como ser: UX, UI, Back-End, Banco de Datos, Infraestructura y con el área de Analytics de una empresa.
+Además ven y conoce como se relaciona y como interactúa en la práctica un Desarrollador Web con otras áreas de tecnología como ser: UX, UI, Back-End, Banco de Datos, Infraestructura y con el área de Analytics de una empresa.
